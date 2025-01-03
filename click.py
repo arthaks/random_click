@@ -13,7 +13,7 @@ range_x = 50
 range_y = 50
 
 # 点击次数
-clicks = 10
+clicks = 100000000000
 
 try:
     for _ in range(clicks):
